@@ -1,0 +1,8 @@
+{
+    "cardNumber": "4242424242424242",
+    "expiryMonth": "12",
+    "expiryYear": "30",
+    "cvv": "123",
+    "cardholderName": "Test User",
+    "country": "India"
+}
